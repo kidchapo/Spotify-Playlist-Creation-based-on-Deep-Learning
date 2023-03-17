@@ -1,4 +1,4 @@
-# Spotify Playlist Recommendation based on input text by the user
+# Using Deep Learning techniques to create a Spotify playlist based on input text by the user
 
 For this project, we used deep learning techniques to create a Spotify playlist based on the text input by the user. 
 
