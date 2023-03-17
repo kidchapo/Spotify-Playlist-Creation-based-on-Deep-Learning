@@ -12,6 +12,14 @@ regularity.
 - Energy: Represents a perceptual measure of intensity and activity. Typically,
 energetic tracks feel fast, loud, and noisy. For example, death metal has high energy,
 while a Bach prelude scores low on the scale
+- Loudness: The overall loudness of a track in decibels (dB). Loudness values are
+averaged across the entire track and are useful for comparing relative loudness of
+tracks
+- Liveness: Detects the presence of an audience in the recording. Higher liveness
+values represent an increased probability that the track was performed live.
+- Valence: Describes the musical positiveness conveyed by a track. Tracks with high
+valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low
+valence sound more negative (e.g. sad, depressed, angry). 
 
 In the meantime, we can use the songs' lyrics to train a DL model, in order to predict the according Spotify features for a given text.
 
