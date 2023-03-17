@@ -24,3 +24,11 @@ valence sound more negative (e.g. sad, depressed, angry).
 In the meantime, we can use the songs' lyrics to train a DL model, in order to predict the according Spotify features for a given text.
 
 By this, we can compare the predicted vector with the Spotify DB, and create an interesting playlist which expresses the sentiment of the text, containing the n-most similar songs.
+
+## Data and APIs
+
+We used two Kaggle datasets (https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) and (https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks) to get Spotify tracks and their features.
+
+Also we utilized Spotify and Genius Lyrics APIs to fetch the data needed.
+
+
