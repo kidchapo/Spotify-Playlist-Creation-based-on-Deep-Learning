@@ -6,7 +6,7 @@ For this project, we used deep learning techniques to create a Spotify playlist 
 
 Spotify provide audio features to 'define' each track that can be playback in the streaming platform. For example:
 
--Danceability: Describes how suitable a track is for dancing based on a combination
+- Danceability: Describes how suitable a track is for dancing based on a combination
 of musical elements including tempo, rhythm stability, beat strength, and overall
 regularity.
 - Energy: Represents a perceptual measure of intensity and activity. Typically,
